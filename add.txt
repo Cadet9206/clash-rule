@@ -1,0 +1,7 @@
+127.0.0.1:1234#cfnat
+lhr.soryuasuka.cloudns.org:2096#UK-ct
+lhrv6.soryuasuka.cloudns.org:2096#UK-ct-v6
+hkg.soryuasuka.cloudns.org:2096#HK-ct
+lax.soryuasuka.cloudns.org:2096#US-ct
+hkg.14490901.xyz:2096#HK-cm
+sea.14490901.xyz:2096#US-cm
