@@ -5,3 +5,4 @@ hkg.soryuasuka.cloudns.org:2096#HK-ct
 sjc.soryuasuka.cloudns.org:2096#US-ct
 hkg.14490901.xyz:2096#HK-cm
 sea.14490901.xyz:2096#US-cm
+fra.14490901.xyz:2096#DE-cm
