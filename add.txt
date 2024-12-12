@@ -2,8 +2,8 @@
 lhr.soryuasuka.cloudns.org:2096#UK-ct
 hkg.soryuasuka.cloudns.org:2096#HK-ct
 sjc.soryuasuka.ip-dynamic.org:2096#US-ct
-sinv6.soryuasuka.ip-dynamic.org:2096#SGPv6-ct
-cdgv6.soryuasuka.ip-dynamic.org:2096#FRv6-ct
+sinv6.soryuasuka.ip-dynamic.org:2096#SGP-v6-ct
+cdgv6.soryuasuka.ip-dynamic.org:2096#FR-v6-ct
 hkg.14490901.xyz:2096#HK-cm
 sea.14490901.xyz:2096#US-cm
 fra.14490901.xyz:2096#DE-cm
