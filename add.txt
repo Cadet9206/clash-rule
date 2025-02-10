@@ -5,6 +5,7 @@ sjc.soryuasuka.ip-dynamic.org:2096#US-sjc-ct
 lax.soryuasuka.ip-dynamic.org:2096#US-lax-ct
 sinv6.soryuasuka.ip-dynamic.org:2096#SGP-v6-ct
 cdgv6.soryuasuka.ip-dynamic.org:2096#FR-v6-ct
+2606:4700:f4:19b2:a9cb:b61:6d97:7c14#JP-v6-ct
 hkg.14490901.xyz:2096#HK-cm
 sea.14490901.xyz:2096#US-cm
 fra.14490901.xyz:2096#DE-cm
