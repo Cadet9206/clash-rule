@@ -3,6 +3,7 @@ lhr.soryuasuka.ip-dynamic.org:2096#UK-ct
 hkg.soryuasuka.ip-dynamic.org:2096#HK-ct
 sjc.soryuasuka.ip-dynamic.org:2096#US-sjc-ct
 lax.soryuasuka.ip-dynamic.org:2096#US-lax-ct
+nrt.soryuasuka.ip-dynamic.org:2096#JP-ct
 sinv6.soryuasuka.ip-dynamic.org:2096#SG-v6-ct
 hkgv6.soryuasuka.ip-dynamic.org:2096#HK-v6-ct
 hkg.14490901.xyz:2096#HK-cm
