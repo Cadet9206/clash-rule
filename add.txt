@@ -9,4 +9,4 @@ hkgv6.soryuasuka.ip-dynamic.org:2096#HK-v6-ct
 hkg.14490901.xyz:2096#HK-cm
 sea.14490901.xyz:2096#US-cm
 fra.14490901.xyz:2096#DE-cm
-[2a01:4f8:c2c:123f:64:5:6810:c55a]:2096#ipv6
+[2606:4700:f4:7f1d:73ea:8c45:5e6e:5236]:2096#ipv6
