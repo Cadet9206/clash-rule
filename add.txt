@@ -1,8 +1,9 @@
 127.0.0.1:1234#CFnat
 lhr.soryuasuka.ip-dynamic.org:2096#UK-ct
+nrt.soryuasuka.ip-dynamic.org:2096#JP-ct
 sjc.soryuasuka.ip-dynamic.org:2096#US-sjc-ct
 lax.soryuasuka.ip-dynamic.org:2096#US-lax-ct
-[2606:4700:f4:7f1d:73ea:8c45:5e6e:5236]:2096#jp-ipv6
+[2606:4700:f4:7f1d:73ea:8c45:5e6e:5236]:2096#JP-ipv6
 sinv6.soryuasuka.ip-dynamic.org:2096#SG-v6-ct
 hkgv6.soryuasuka.ip-dynamic.org:2096#HK-v6-ct
 hkg.14490901.xyz:2096#HK-cm
