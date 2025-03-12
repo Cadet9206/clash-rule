@@ -1,7 +1,7 @@
 127.0.0.1:1234#CFnat
 ams.soryuasuka.ip-dynamic.org:2096#NL-ct
 lax.soryuasuka.ip-dynamic.org:2096#US-ct
-[2606:4700:f4:7f1d:73ea:8c45:5e6e:5236]:2096#JP-ipv6
+[2606:4700:f4:a896:9e3c:7ece:a361:c58e]:2096#JP-ipv6
 sinv6.soryuasuka.ip-dynamic.org:2096#SG-v6-ct
 hkgv6.soryuasuka.ip-dynamic.org:2096#HK-v6-ct
 hkg.14490901.xyz:2096#HK-cm
