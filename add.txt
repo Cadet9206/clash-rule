@@ -4,5 +4,5 @@ ams.soryuasuka.ip-dynamic.org:2096#NL-ct
 sjc.soryuasuka.ip-dynamic.org:2096#US-ct
 hkg.14490901.xyz:2096#HK-cm
 sea.14490901.xyz:2096#US-cm
-fra.14490901.xyz:2096#DE-cm
+nrt.14490901.xyz:2096#JP-cm
 
