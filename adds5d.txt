@@ -5,7 +5,7 @@ nrt.soryuasuka.ip-dynamic.org:2096#日本-东京-S04
 nrt.soryuasuka.ip-dynamic.org:2096#韩国-仁川-S01
 nrt.soryuasuka.ip-dynamic.org:2096#韩国-仁川-S02
 nrt.soryuasuka.ip-dynamic.org:2096#韩国-仁川-S03
-nrt.soryuasuka.ip-dynamic.org:2096#韩国-仁川-S04
+nrt.soryuasuka.ip-dynamic.org:2096#韩国-首尔-S04
 nrt.soryuasuka.ip-dynamic.org:2096#台湾-台北-S01
 nrt.soryuasuka.ip-dynamic.org:2096#台湾-台北-S02
 nrt.soryuasuka.ip-dynamic.org:2096#台湾-台北-S03
