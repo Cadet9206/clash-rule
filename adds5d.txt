@@ -14,7 +14,6 @@ sjc.soryuasuka.ip-dynamic.org:2096#美国-阿什本-S01
 sjc.soryuasuka.ip-dynamic.org:2096#美国-阿什本-S02
 sjc.soryuasuka.ip-dynamic.org:2096#美国-阿什本-S03
 sjc.soryuasuka.ip-dynamic.org:2096#美国-阿什本-S04
-sjc.soryuasuka.ip-dynamic.org:2096#美国-阿什本-S05
 fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S01
 fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S02
 fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S03
