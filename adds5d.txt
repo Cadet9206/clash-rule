@@ -18,5 +18,3 @@ fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S01
 fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S02
 fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S03
 fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S04
-fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S05
-fra.soryuasuka.ip-dynamic.org:2096#德国-法兰克福-S06
